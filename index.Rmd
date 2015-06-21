@@ -1,6 +1,6 @@
 ---
-title       : Slidify Project
-subtitle    : For Coursera
+title       : Shiny Slidify Project
+subtitle    : For Coursera 'Developing Data Products'
 author      : NV Ramamoorthy
 job         : Freelance Consultant
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
@@ -11,30 +11,63 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-## Read-And-Delete
+## Purpose of this Presentation
 
-1. Edit YAML front matter
-2. Write using R Markdown
-3. Use an empty line followed by three dashes to separate slides!
-
---- .class #id 
-
-## Slide 2
-
-test
+1. As a part of the Course Developing Data Products , I  learnt and practised packages Shiny & Slidfy .
+2. This presentation is for demonstrating my skills on these packages.
+3. My work on these subject is kept in Github Repository .
+4. You may visit the following link: https://github.com/nvramamoorthy
+5. All my work connected with the modules under Coursera course offered by Johns Hopkins Bloomberg School of Public Health were in my GitHub Repository
+6. My Shiny Application 'Countywise Population Distribution in USA' is deployed at https://nvramamoorthy.shinyapps.io/Coursera-Shiny-Project
 
 --- .class #id 
 
-##slide3
+## Code Execution in Slidify Presentation
 
-hello
+Here is a Code chunk to demonstrate that Slidify can present live excution of code.
+
+```{r}
+x <- seq(from=0, to=1, by=0.01);
+f1 <- 0.5; f4 <- 0.75;
+y <- f1*sin(2*pi*x) + f4*sin(2*pi*4*x)
+plot(x, y, type="l");
+```
 
 --- .class #id 
 
-##slide4
+## Screen Shot of my Shiny Appication
 
-hi 
+*** {class: active, img: "~/Desktop/DataProduct/Coursera-Shiny-Project/Shiny.tiff"}
+
+ Image 1
+
+ *** {img: "~/Desktop/DataProduct/Coursera-Shiny-Project/Shiny.tiff"}
+
+ Image 2
+
+
+
 --- .class #id 
+
+## Thank You 
+### நன்றி
+### இந்த நாள் இனிதாகுக!
+
+My native language is Tamil.
+
+I just wanted to test whether other language fonts work in slidify.
+
+WOW it worked.
+
+The meaning of those Tamil word are 'Thanks' ,  'Have Nice Day'.
+
+I have  taken all Modules of  'Data Scientist' stream of Coursera .
+
+This Module is my last one.
+
+I thank everyone who were with me during this stream for last 4 months.
+
+### I Wish Everyone A Great Future Ahead!!
 
 
 
