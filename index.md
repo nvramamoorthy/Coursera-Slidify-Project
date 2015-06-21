@@ -18,7 +18,10 @@ knit        : slidify::knit2slides
 3. My work on these subject is kept in Github Repository .
 4. You may visit the following link: https://github.com/nvramamoorthy
 5. All my work connected with the modules under Coursera course offered by Johns Hopkins Bloomberg School of Public Health were in my GitHub Repository
-6. My Shiny Application 'Countywise Population Distribution in USA' is deployed at https://nvramamoorthy.shinyapps.io/Coursera-Shiny-Project
+6. My Shiny Application 'Countywise Population Distribution in USA' is deployed at
+https://nvramamoorthy.shinyapps.io/Coursera-Shiny-Project
+7. My Slidify Application can be accessed at the link : 
+http://nvramamoorthy.github.io/Coursera-Slidify-Project/
 
 --- .class #id 
 
@@ -34,7 +37,7 @@ y <- f1*sin(2*pi*x) + f4*sin(2*pi*4*x)
 plot(x, y, type="l");
 ```
 
-![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1-1.png) 
+![plot of chunk unnamed-chunk-1](figure/unnamed-chunk-1-1.png) 
 
 --- .class #id 
 
@@ -44,7 +47,9 @@ I wanted to add the Screen Shot of my Shiny application .
 
 I searched on web. There are few clues. But I could not succeed in doing that.
 
-The Code Chunk tried in previous slide worked. 
+You can see the Slide Presentation at this link : http://nvramamoorthy.github.io/Coursera-Slidify-Project/
+
+The Code Chunk tried in previous slide worked.
 
 That was a simple plot using few lines of code.
 
@@ -63,7 +68,7 @@ My native language is Tamil.
 
 I just wanted to test whether other language fonts work in slidify.
 
-WOW it worked.
+WOW it worked!!!
 
 The meaning of those Tamil word are 'Thanks' ,  'Have Nice Day'.
 
