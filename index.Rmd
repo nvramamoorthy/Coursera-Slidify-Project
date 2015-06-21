@@ -37,14 +37,17 @@ plot(x, y, type="l");
 
 ## Screen Shot of my Shiny Appication
 
-*** {class: active, img: "~/Desktop/DataProduct/Coursera-Shiny-Project/Shiny.tiff"}
+I wanted to add the Screen Shot of my Shiny application .
 
- Image 1
+I searched on web. There are few clues. But I could not succeed in doing that.
 
- *** {img: "~/Desktop/DataProduct/Coursera-Shiny-Project/Shiny.tiff"}
+The Code Chunk tried in previous slide worked. 
 
- Image 2
+That was a simple plot using few lines of code.
 
+Please let me know 'How to Insert Images in slides'.
+
+You may mail me at nvramamoorthy@gmail.com
 
 
 --- .class #id 
